@@ -23,8 +23,8 @@ public class FXMLDocumentController implements Initializable {
     
     @FXML
     private void handleButtonAction(ActionEvent event) {
-        System.out.println("You clicked me!");
-        label.setText("Hello World!");
+        System.out.println("Tul mnie!");
+        label.setText("i daj buziaka!");
     }
     
     @Override
